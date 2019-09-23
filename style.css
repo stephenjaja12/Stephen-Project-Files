@@ -1,0 +1,47 @@
+body{
+    background-image: url("milky.jpg");
+}
+.key{
+    border: black solid;
+    display: inline-block;
+    height: 84px;
+    width: 53px;
+    margin-left: 71px;
+    border-radius:4px;
+   
+} 
+.keys{
+    margin-top:270px; 
+}
+
+.span-1{
+    color: white;
+    color: white;
+    margin-left: 21px;
+    font-weight: bold;
+}
+.span-2{
+    margin-left: -17px;
+    position: absolute;
+    margin-top: 37px;
+    color: #feb236;
+    font-size: 12px;
+}
+.span-2-clap{
+    color: #feb236;
+    font-size: 12px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 12px; 
+}
+.span-2-openhat{ 
+    color: #feb236;
+    font-size: 12px;
+    margin-top: 38px;
+    position: absolute;
+    margin-left: -25px; 
+}    
+.play{
+    transform: scaleY(1.1);
+    box-shadow: 0 0 1rem #ffc600;  
+}
